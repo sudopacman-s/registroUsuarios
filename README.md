@@ -24,6 +24,7 @@ Aplicación web sencilla hecha con **Python y Flask** que permite registrar usua
 
 La aplicación sigue una estructura típica de Flask:
 
+```text
 ├── app.py # Archivo principal de la aplicación Flask
 ├── instance/
 │ └── usuarios.db # Base de datos SQLite
