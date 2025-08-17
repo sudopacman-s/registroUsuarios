@@ -1,0 +1,184 @@
+17-Aug-25 01:21:04 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+17-Aug-25 01:21:04 - INFO - [33mPress CTRL+C to quit[0m
+17-Aug-25 01:21:04 - INFO -  * Restarting with stat
+17-Aug-25 01:21:05 - WARNING -  * Debugger is active!
+17-Aug-25 01:21:05 - INFO -  * Debugger PIN: 773-921-905
+17-Aug-25 01:21:18 - INFO - 127.0.0.1 - - [17/Aug/2025 01:21:18] "GET / HTTP/1.1" 200 -
+17-Aug-25 01:23:08 - INFO - Usuario prueba14 registrado
+17-Aug-25 01:23:08 - INFO - 127.0.0.1 - - [17/Aug/2025 01:23:08] "[32mPOST /registrar HTTP/1.1[0m" 302 -
+17-Aug-25 01:23:08 - INFO - 127.0.0.1 - - [17/Aug/2025 01:23:08] "GET / HTTP/1.1" 200 -
+17-Aug-25 01:23:20 - INFO - 127.0.0.1 - - [17/Aug/2025 01:23:20] "GET /usuarios HTTP/1.1" 200 -
+17-Aug-25 01:23:22 - INFO - 127.0.0.1 - - [17/Aug/2025 01:23:22] "GET / HTTP/1.1" 200 -
+17-Aug-25 01:38:56 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+17-Aug-25 01:38:56 - INFO - [33mPress CTRL+C to quit[0m
+17-Aug-25 01:38:56 - INFO -  * Restarting with stat
+17-Aug-25 01:38:56 - WARNING -  * Debugger is active!
+17-Aug-25 01:38:56 - INFO -  * Debugger PIN: 773-921-905
+17-Aug-25 01:38:59 - INFO - 127.0.0.1 - - [17/Aug/2025 01:38:59] "GET / HTTP/1.1" 200 -
+17-Aug-25 01:38:59 - INFO - 127.0.0.1 - - [17/Aug/2025 01:38:59] "[33mGET /static/images HTTP/1.1[0m" 404 -
+17-Aug-25 01:38:59 - INFO - 127.0.0.1 - - [17/Aug/2025 01:38:59] "[33mGET /static/css/estilo.css HTTP/1.1[0m" 404 -
+17-Aug-25 01:40:52 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+17-Aug-25 01:40:52 - INFO - [33mPress CTRL+C to quit[0m
+17-Aug-25 01:40:52 - INFO -  * Restarting with stat
+17-Aug-25 01:40:53 - WARNING -  * Debugger is active!
+17-Aug-25 01:40:53 - INFO -  * Debugger PIN: 773-921-905
+17-Aug-25 01:40:54 - INFO - 127.0.0.1 - - [17/Aug/2025 01:40:54] "GET / HTTP/1.1" 200 -
+17-Aug-25 01:40:54 - INFO - 127.0.0.1 - - [17/Aug/2025 01:40:54] "GET /static/css/style.css HTTP/1.1" 200 -
+17-Aug-25 01:40:54 - INFO - 127.0.0.1 - - [17/Aug/2025 01:40:54] "GET /static/images/NOKOTAN.png HTTP/1.1" 200 -
+17-Aug-25 01:40:58 - INFO - 127.0.0.1 - - [17/Aug/2025 01:40:58] "GET /usuarios HTTP/1.1" 200 -
+17-Aug-25 01:40:59 - INFO - 127.0.0.1 - - [17/Aug/2025 01:40:59] "GET / HTTP/1.1" 200 -
+17-Aug-25 01:40:59 - INFO - 127.0.0.1 - - [17/Aug/2025 01:40:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+17-Aug-25 01:40:59 - INFO - 127.0.0.1 - - [17/Aug/2025 01:40:59] "[36mGET /static/images/NOKOTAN.png HTTP/1.1[0m" 304 -
+17-Aug-25 01:41:10 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+17-Aug-25 01:41:10 - INFO - [33mPress CTRL+C to quit[0m
+17-Aug-25 01:41:10 - INFO -  * Restarting with stat
+17-Aug-25 01:41:10 - WARNING -  * Debugger is active!
+17-Aug-25 01:41:10 - INFO -  * Debugger PIN: 773-921-905
+17-Aug-25 01:42:00 - INFO - 127.0.0.1 - - [17/Aug/2025 01:42:00] "GET / HTTP/1.1" 200 -
+17-Aug-25 01:42:00 - INFO - 127.0.0.1 - - [17/Aug/2025 01:42:00] "[36mGET /static/images/NOKOTAN.png HTTP/1.1[0m" 304 -
+17-Aug-25 01:42:00 - INFO - 127.0.0.1 - - [17/Aug/2025 01:42:00] "GET /static/css/style.css HTTP/1.1" 200 -
+17-Aug-25 01:42:08 - INFO - 127.0.0.1 - - [17/Aug/2025 01:42:08] "GET / HTTP/1.1" 200 -
+17-Aug-25 01:42:08 - INFO - 127.0.0.1 - - [17/Aug/2025 01:42:08] "[36mGET /static/images/NOKOTAN.png HTTP/1.1[0m" 304 -
+17-Aug-25 01:42:08 - INFO - 127.0.0.1 - - [17/Aug/2025 01:42:08] "GET /static/css/style.css HTTP/1.1" 200 -
+17-Aug-25 01:42:32 - INFO - 127.0.0.1 - - [17/Aug/2025 01:42:32] "[35m[1mPOST /registrar HTTP/1.1[0m" 500 -
+17-Aug-25 01:42:32 - INFO - 127.0.0.1 - - [17/Aug/2025 01:42:32] "[36mGET /registrar?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+17-Aug-25 01:42:32 - INFO - 127.0.0.1 - - [17/Aug/2025 01:42:32] "[36mGET /registrar?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+17-Aug-25 01:42:32 - INFO - 127.0.0.1 - - [17/Aug/2025 01:42:32] "GET /registrar?__debugger__=yes&cmd=resource&f=console.png&s=ggQGPaNmahliaW5tYbpp HTTP/1.1" 200 -
+17-Aug-25 01:45:31 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+17-Aug-25 01:45:31 - INFO - [33mPress CTRL+C to quit[0m
+17-Aug-25 01:45:31 - INFO -  * Restarting with stat
+17-Aug-25 01:45:31 - WARNING -  * Debugger is active!
+17-Aug-25 01:45:31 - INFO -  * Debugger PIN: 773-921-905
+17-Aug-25 01:45:34 - INFO - 127.0.0.1 - - [17/Aug/2025 01:45:34] "GET / HTTP/1.1" 200 -
+17-Aug-25 01:45:34 - INFO - 127.0.0.1 - - [17/Aug/2025 01:45:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+17-Aug-25 01:45:34 - INFO - 127.0.0.1 - - [17/Aug/2025 01:45:34] "[36mGET /static/images/NOKOTAN.png HTTP/1.1[0m" 304 -
+17-Aug-25 01:46:03 - INFO - 127.0.0.1 - - [17/Aug/2025 01:46:03] "[35m[1mPOST /registrar HTTP/1.1[0m" 500 -
+17-Aug-25 01:46:03 - INFO - 127.0.0.1 - - [17/Aug/2025 01:46:03] "[36mGET /registrar?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+17-Aug-25 01:46:03 - INFO - 127.0.0.1 - - [17/Aug/2025 01:46:03] "[36mGET /registrar?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+17-Aug-25 01:46:03 - INFO - 127.0.0.1 - - [17/Aug/2025 01:46:03] "GET /registrar?__debugger__=yes&cmd=resource&f=console.png&s=TYnT0pXpq2wCbw10vfHg HTTP/1.1" 200 -
+17-Aug-25 01:47:52 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+17-Aug-25 01:47:52 - INFO - [33mPress CTRL+C to quit[0m
+17-Aug-25 01:47:52 - INFO -  * Restarting with stat
+17-Aug-25 01:47:53 - WARNING -  * Debugger is active!
+17-Aug-25 01:47:53 - INFO -  * Debugger PIN: 773-921-905
+17-Aug-25 01:47:55 - INFO - 127.0.0.1 - - [17/Aug/2025 01:47:55] "GET / HTTP/1.1" 200 -
+17-Aug-25 01:47:55 - INFO - 127.0.0.1 - - [17/Aug/2025 01:47:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+17-Aug-25 01:47:55 - INFO - 127.0.0.1 - - [17/Aug/2025 01:47:55] "[36mGET /static/images/NOKOTAN.png HTTP/1.1[0m" 304 -
+17-Aug-25 01:47:55 - INFO - 127.0.0.1 - - [17/Aug/2025 01:47:55] "GET / HTTP/1.1" 200 -
+17-Aug-25 01:47:55 - INFO - 127.0.0.1 - - [17/Aug/2025 01:47:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+17-Aug-25 01:47:55 - INFO - 127.0.0.1 - - [17/Aug/2025 01:47:55] "[36mGET /static/images/NOKOTAN.png HTTP/1.1[0m" 304 -
+17-Aug-25 01:48:00 - INFO - Usuario asdasdas registrado
+17-Aug-25 01:48:00 - INFO - 127.0.0.1 - - [17/Aug/2025 01:48:00] "[32mPOST /registrar HTTP/1.1[0m" 302 -
+17-Aug-25 01:48:00 - INFO - 127.0.0.1 - - [17/Aug/2025 01:48:00] "GET / HTTP/1.1" 200 -
+17-Aug-25 01:48:00 - INFO - 127.0.0.1 - - [17/Aug/2025 01:48:00] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+17-Aug-25 01:48:00 - INFO - 127.0.0.1 - - [17/Aug/2025 01:48:00] "[36mGET /static/images/NOKOTAN.png HTTP/1.1[0m" 304 -
+17-Aug-25 01:48:02 - INFO - 127.0.0.1 - - [17/Aug/2025 01:48:02] "GET /usuarios HTTP/1.1" 200 -
+17-Aug-25 01:48:07 - INFO - 127.0.0.1 - - [17/Aug/2025 01:48:07] "GET / HTTP/1.1" 200 -
+17-Aug-25 01:48:07 - INFO - 127.0.0.1 - - [17/Aug/2025 01:48:07] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+17-Aug-25 01:48:07 - INFO - 127.0.0.1 - - [17/Aug/2025 01:48:07] "[36mGET /static/images/NOKOTAN.png HTTP/1.1[0m" 304 -
+17-Aug-25 01:48:59 - INFO - 127.0.0.1 - - [17/Aug/2025 01:48:59] "[32mPOST /registrar HTTP/1.1[0m" 302 -
+17-Aug-25 01:48:59 - INFO - 127.0.0.1 - - [17/Aug/2025 01:48:59] "GET / HTTP/1.1" 200 -
+17-Aug-25 01:48:59 - INFO - 127.0.0.1 - - [17/Aug/2025 01:48:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+17-Aug-25 01:48:59 - INFO - 127.0.0.1 - - [17/Aug/2025 01:48:59] "[36mGET /static/images/NOKOTAN.png HTTP/1.1[0m" 304 -
+17-Aug-25 01:49:27 - INFO - 127.0.0.1 - - [17/Aug/2025 01:49:27] "GET / HTTP/1.1" 200 -
+17-Aug-25 01:49:27 - INFO - 127.0.0.1 - - [17/Aug/2025 01:49:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+17-Aug-25 01:49:27 - INFO - 127.0.0.1 - - [17/Aug/2025 01:49:27] "[36mGET /static/images/NOKOTAN.png HTTP/1.1[0m" 304 -
+17-Aug-25 01:51:35 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+17-Aug-25 01:51:35 - INFO - [33mPress CTRL+C to quit[0m
+17-Aug-25 01:51:35 - INFO -  * Restarting with stat
+17-Aug-25 01:51:35 - WARNING -  * Debugger is active!
+17-Aug-25 01:51:35 - INFO -  * Debugger PIN: 773-921-905
+17-Aug-25 01:51:37 - INFO - 127.0.0.1 - - [17/Aug/2025 01:51:37] "GET / HTTP/1.1" 200 -
+17-Aug-25 01:51:37 - INFO - 127.0.0.1 - - [17/Aug/2025 01:51:37] "[36mGET /static/images/NOKOTAN.png HTTP/1.1[0m" 304 -
+17-Aug-25 01:51:37 - INFO - 127.0.0.1 - - [17/Aug/2025 01:51:37] "GET /static/css/style.css HTTP/1.1" 200 -
+17-Aug-25 01:51:40 - INFO - 127.0.0.1 - - [17/Aug/2025 01:51:40] "GET /usuarios HTTP/1.1" 200 -
+17-Aug-25 01:51:40 - INFO - 127.0.0.1 - - [17/Aug/2025 01:51:40] "GET /static/css/usuarios.css HTTP/1.1" 200 -
+17-Aug-25 01:51:45 - INFO - 127.0.0.1 - - [17/Aug/2025 01:51:45] "GET / HTTP/1.1" 200 -
+17-Aug-25 01:51:45 - INFO - 127.0.0.1 - - [17/Aug/2025 01:51:45] "[36mGET /static/images/NOKOTAN.png HTTP/1.1[0m" 304 -
+17-Aug-25 01:51:45 - INFO - 127.0.0.1 - - [17/Aug/2025 01:51:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+17-Aug-25 01:51:46 - INFO - 127.0.0.1 - - [17/Aug/2025 01:51:46] "GET /usuarios HTTP/1.1" 200 -
+17-Aug-25 01:51:46 - INFO - 127.0.0.1 - - [17/Aug/2025 01:51:46] "[36mGET /static/css/usuarios.css HTTP/1.1[0m" 304 -
+17-Aug-25 01:51:48 - INFO - 127.0.0.1 - - [17/Aug/2025 01:51:48] "GET / HTTP/1.1" 200 -
+17-Aug-25 01:51:48 - INFO - 127.0.0.1 - - [17/Aug/2025 01:51:48] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+17-Aug-25 01:51:48 - INFO - 127.0.0.1 - - [17/Aug/2025 01:51:48] "[36mGET /static/images/NOKOTAN.png HTTP/1.1[0m" 304 -
+17-Aug-25 01:52:22 - INFO - 127.0.0.1 - - [17/Aug/2025 01:52:22] "GET /usuarios HTTP/1.1" 200 -
+17-Aug-25 01:52:22 - INFO - 127.0.0.1 - - [17/Aug/2025 01:52:22] "[36mGET /static/css/usuarios.css HTTP/1.1[0m" 304 -
+17-Aug-25 01:52:27 - INFO - 127.0.0.1 - - [17/Aug/2025 01:52:27] "GET / HTTP/1.1" 200 -
+17-Aug-25 01:52:27 - INFO - 127.0.0.1 - - [17/Aug/2025 01:52:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+17-Aug-25 01:52:27 - INFO - 127.0.0.1 - - [17/Aug/2025 01:52:27] "[36mGET /static/images/NOKOTAN.png HTTP/1.1[0m" 304 -
+17-Aug-25 01:52:30 - INFO - 127.0.0.1 - - [17/Aug/2025 01:52:30] "GET /usuarios HTTP/1.1" 200 -
+17-Aug-25 01:52:30 - INFO - 127.0.0.1 - - [17/Aug/2025 01:52:30] "[36mGET /static/css/usuarios.css HTTP/1.1[0m" 304 -
+17-Aug-25 01:53:28 - INFO - 127.0.0.1 - - [17/Aug/2025 01:53:28] "GET /usuarios HTTP/1.1" 200 -
+17-Aug-25 01:53:28 - INFO - 127.0.0.1 - - [17/Aug/2025 01:53:28] "[36mGET /static/css/usuarios.css HTTP/1.1[0m" 304 -
+17-Aug-25 01:53:29 - INFO - 127.0.0.1 - - [17/Aug/2025 01:53:29] "GET / HTTP/1.1" 200 -
+17-Aug-25 01:53:29 - INFO - 127.0.0.1 - - [17/Aug/2025 01:53:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+17-Aug-25 01:53:29 - INFO - 127.0.0.1 - - [17/Aug/2025 01:53:29] "[36mGET /static/images/NOKOTAN.png HTTP/1.1[0m" 304 -
+17-Aug-25 01:53:29 - INFO - 127.0.0.1 - - [17/Aug/2025 01:53:29] "GET /usuarios HTTP/1.1" 200 -
+17-Aug-25 01:53:29 - INFO - 127.0.0.1 - - [17/Aug/2025 01:53:29] "[36mGET /static/css/usuarios.css HTTP/1.1[0m" 304 -
+17-Aug-25 01:53:30 - INFO - 127.0.0.1 - - [17/Aug/2025 01:53:30] "GET / HTTP/1.1" 200 -
+17-Aug-25 01:53:30 - INFO - 127.0.0.1 - - [17/Aug/2025 01:53:30] "[36mGET /static/images/NOKOTAN.png HTTP/1.1[0m" 304 -
+17-Aug-25 01:53:30 - INFO - 127.0.0.1 - - [17/Aug/2025 01:53:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+17-Aug-25 01:54:17 - INFO - 127.0.0.1 - - [17/Aug/2025 01:54:17] "GET /usuarios HTTP/1.1" 200 -
+17-Aug-25 01:54:17 - INFO - 127.0.0.1 - - [17/Aug/2025 01:54:17] "[36mGET /static/css/usuarios.css HTTP/1.1[0m" 304 -
+17-Aug-25 01:54:19 - INFO - 127.0.0.1 - - [17/Aug/2025 01:54:19] "GET / HTTP/1.1" 200 -
+17-Aug-25 01:54:19 - INFO - 127.0.0.1 - - [17/Aug/2025 01:54:19] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+17-Aug-25 01:54:19 - INFO - 127.0.0.1 - - [17/Aug/2025 01:54:19] "[36mGET /static/images/NOKOTAN.png HTTP/1.1[0m" 304 -
+17-Aug-25 01:54:34 - INFO - Usuario prueba 1 registrado
+17-Aug-25 01:54:34 - INFO - 127.0.0.1 - - [17/Aug/2025 01:54:34] "[32mPOST /registrar HTTP/1.1[0m" 302 -
+17-Aug-25 01:54:34 - INFO - 127.0.0.1 - - [17/Aug/2025 01:54:34] "GET / HTTP/1.1" 200 -
+17-Aug-25 01:54:34 - INFO - 127.0.0.1 - - [17/Aug/2025 01:54:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+17-Aug-25 01:54:34 - INFO - 127.0.0.1 - - [17/Aug/2025 01:54:34] "[36mGET /static/images/NOKOTAN.png HTTP/1.1[0m" 304 -
+17-Aug-25 01:54:36 - INFO - 127.0.0.1 - - [17/Aug/2025 01:54:36] "GET /usuarios HTTP/1.1" 200 -
+17-Aug-25 01:54:36 - INFO - 127.0.0.1 - - [17/Aug/2025 01:54:36] "[36mGET /static/css/usuarios.css HTTP/1.1[0m" 304 -
+17-Aug-25 01:54:37 - INFO - 127.0.0.1 - - [17/Aug/2025 01:54:37] "GET / HTTP/1.1" 200 -
+17-Aug-25 01:54:37 - INFO - 127.0.0.1 - - [17/Aug/2025 01:54:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+17-Aug-25 01:54:37 - INFO - 127.0.0.1 - - [17/Aug/2025 01:54:37] "[36mGET /static/images/NOKOTAN.png HTTP/1.1[0m" 304 -
+17-Aug-25 01:54:47 - INFO - Usuario prueba 2 registrado
+17-Aug-25 01:54:47 - INFO - 127.0.0.1 - - [17/Aug/2025 01:54:47] "[32mPOST /registrar HTTP/1.1[0m" 302 -
+17-Aug-25 01:54:47 - INFO - 127.0.0.1 - - [17/Aug/2025 01:54:47] "GET / HTTP/1.1" 200 -
+17-Aug-25 01:54:47 - INFO - 127.0.0.1 - - [17/Aug/2025 01:54:47] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+17-Aug-25 01:54:47 - INFO - 127.0.0.1 - - [17/Aug/2025 01:54:47] "[36mGET /static/images/NOKOTAN.png HTTP/1.1[0m" 304 -
+17-Aug-25 01:54:58 - INFO - Usuario prueba 3 registrado
+17-Aug-25 01:54:58 - INFO - 127.0.0.1 - - [17/Aug/2025 01:54:58] "[32mPOST /registrar HTTP/1.1[0m" 302 -
+17-Aug-25 01:54:58 - INFO - 127.0.0.1 - - [17/Aug/2025 01:54:58] "GET / HTTP/1.1" 200 -
+17-Aug-25 01:54:58 - INFO - 127.0.0.1 - - [17/Aug/2025 01:54:58] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+17-Aug-25 01:54:58 - INFO - 127.0.0.1 - - [17/Aug/2025 01:54:58] "[36mGET /static/images/NOKOTAN.png HTTP/1.1[0m" 304 -
+17-Aug-25 01:54:59 - INFO - 127.0.0.1 - - [17/Aug/2025 01:54:59] "GET /usuarios HTTP/1.1" 200 -
+17-Aug-25 01:54:59 - INFO - 127.0.0.1 - - [17/Aug/2025 01:54:59] "[36mGET /static/css/usuarios.css HTTP/1.1[0m" 304 -
+17-Aug-25 02:01:55 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+17-Aug-25 02:01:55 - INFO - [33mPress CTRL+C to quit[0m
+17-Aug-25 02:01:55 - INFO -  * Restarting with stat
+17-Aug-25 02:01:55 - WARNING -  * Debugger is active!
+17-Aug-25 02:01:55 - INFO -  * Debugger PIN: 773-921-905
+17-Aug-25 02:01:59 - INFO - 127.0.0.1 - - [17/Aug/2025 02:01:59] "GET /usuarios HTTP/1.1" 200 -
+17-Aug-25 02:01:59 - INFO - 127.0.0.1 - - [17/Aug/2025 02:01:59] "GET /static/css/usuarios.css HTTP/1.1" 200 -
+17-Aug-25 02:02:00 - INFO - 127.0.0.1 - - [17/Aug/2025 02:02:00] "GET / HTTP/1.1" 200 -
+17-Aug-25 02:02:00 - INFO - 127.0.0.1 - - [17/Aug/2025 02:02:00] "GET /static/css/style.css HTTP/1.1" 200 -
+17-Aug-25 02:02:00 - INFO - 127.0.0.1 - - [17/Aug/2025 02:02:00] "GET /static/images/NOKOTAN.png HTTP/1.1" 200 -
+17-Aug-25 02:02:09 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+17-Aug-25 02:02:09 - INFO - [33mPress CTRL+C to quit[0m
+17-Aug-25 02:02:09 - INFO -  * Restarting with stat
+17-Aug-25 02:02:09 - WARNING -  * Debugger is active!
+17-Aug-25 02:02:09 - INFO -  * Debugger PIN: 773-921-905
+17-Aug-25 02:02:10 - INFO - 127.0.0.1 - - [17/Aug/2025 02:02:10] "GET / HTTP/1.1" 200 -
+17-Aug-25 02:02:10 - INFO - 127.0.0.1 - - [17/Aug/2025 02:02:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+17-Aug-25 02:02:10 - INFO - 127.0.0.1 - - [17/Aug/2025 02:02:10] "[36mGET /static/images/NOKOTAN.png HTTP/1.1[0m" 304 -
+17-Aug-25 02:02:20 - INFO - Usuario prueba 4 registrado
+17-Aug-25 02:02:20 - INFO - 127.0.0.1 - - [17/Aug/2025 02:02:20] "[32mPOST /registrar HTTP/1.1[0m" 302 -
+17-Aug-25 02:02:20 - INFO - 127.0.0.1 - - [17/Aug/2025 02:02:20] "GET / HTTP/1.1" 200 -
+17-Aug-25 02:02:20 - INFO - 127.0.0.1 - - [17/Aug/2025 02:02:20] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+17-Aug-25 02:02:20 - INFO - 127.0.0.1 - - [17/Aug/2025 02:02:20] "[36mGET /static/images/NOKOTAN.png HTTP/1.1[0m" 304 -
+17-Aug-25 02:02:21 - INFO - 127.0.0.1 - - [17/Aug/2025 02:02:21] "GET /usuarios HTTP/1.1" 200 -
+17-Aug-25 02:02:21 - INFO - 127.0.0.1 - - [17/Aug/2025 02:02:21] "[36mGET /static/css/usuarios.css HTTP/1.1[0m" 304 -
+17-Aug-25 02:02:22 - INFO - 127.0.0.1 - - [17/Aug/2025 02:02:22] "GET / HTTP/1.1" 200 -
+17-Aug-25 02:02:22 - INFO - 127.0.0.1 - - [17/Aug/2025 02:02:22] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+17-Aug-25 02:02:22 - INFO - 127.0.0.1 - - [17/Aug/2025 02:02:22] "[36mGET /static/images/NOKOTAN.png HTTP/1.1[0m" 304 -

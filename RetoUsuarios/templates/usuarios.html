@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Usuarios Registrados</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/usuarios.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h2>Usuarios Registrados</h2>
+        <ul class="usuarios-lista">
+            {% for u in usuarios %}
+                <li>{{ u.nombre }} - {{ u.correo }}</li>
+            {% endfor %}
+        </ul>
+        <a href="/" class="btn-volver">Volver</a>
+    </div>
+</body>
+</html>
+
