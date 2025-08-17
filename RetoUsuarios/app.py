@@ -36,8 +36,8 @@ def validar_correo(correo):
     correo: str
     returns: re.match
     """
-    patron = r'^[\w\.-]+@[\w\.-]+\.\w+$'
-    return re.match(patron, correo)
+    correo_reg = r'^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$'
+    return re.match(correo_reg, correo)
 
 @app.route('/')
 def index():
