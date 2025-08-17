@@ -20,9 +20,7 @@ Aplicación web sencilla hecha con **Python y Flask** que permite registrar usua
 
 ---
 
-##  Arquitectura de la Aplicación
-
-La aplicación sigue una estructura típica de Flask:
+##  Arquitectura de la Aplicación:
 
 ```text
 ├── app.py # Archivo principal de la aplicación Flask
